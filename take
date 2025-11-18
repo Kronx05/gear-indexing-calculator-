@@ -1,0 +1,7 @@
+cd "c:\Users\kerdy\vs code\gear-indexing-calculator-web"
+git init
+git add .
+git commit -m "Initial site - Gear Indexing Calculator"
+git branch -M main
+git remote add origin https://github.com/Kronx05/gear-indexing-calculator.git
+git push -u origin main
